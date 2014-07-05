@@ -34,7 +34,7 @@ class Program
     }
     if(divisible == false) 
     {    
-        sum+=i;
+        sum += i;
         primeNumbers.Add(i);
     }
    }
