@@ -1,5 +1,4 @@
 package Moderate;
-import java.io.*;
 
 public class ReverseAdd {
 
